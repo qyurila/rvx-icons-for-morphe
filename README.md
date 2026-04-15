@@ -1,6 +1,6 @@
-# rvx-icons-for-morphe
+# RVX Icons for Morphe
 
-A simple port of YouTube and YouTube Music icons from [anddea/revanced-patches](https://github.com/anddea/revanced-patches).
+A simple port of YouTube and YouTube Music icons from [anddea/revanced-patches](https://github.com/anddea/revanced-patches) for [Morphe](https://morphe.software/).
 
 
 ## How to Use
