@@ -7,9 +7,11 @@ A simple port of YouTube and YouTube Music icons from [anddea/revanced-patches](
 
 1. Download a zip file of the icon set you want from [the latest release page](https://github.com/qyurila/rvx-icons-for-morphe/releases/latest) and extract it.
 2. Open the Morphe Manager and go to Advanced tab in Settings.
-3. Go to YouTube **Custom branding** menu under the Patch options section and select `<extracted_path>/youtube/launcher/`
-4. Go to **Custom header logo** menu (right below the Custom branding) and select `<extracted_path>/youtube/header/premium` or `<extracted_path>/youtube/header/default` (if you want)
-5. For YouTube Music, do the same as 3~4 but go to options below YouTube Music setion and select `<extracted_path>/music/...` 
+3. Go to YouTube **Custom branding** menu under the Patch options section and select `<ext_path>/youtube/launcher`.
+4. Go to **Custom header logo** menu (right below the Custom branding) and select `premium` or `default` inside of `<ext_path>/youtube/header`.
+5. For YouTube Music, do the same as step 3~4 but go to options below YouTube Music setion and select `<ext_path>/music/launcher` / `<ext_path>/music/header` instead.
+
+You need to go to Morphe Settings -> General -> Header Logo and select `Custom` to make the custom header to take effect.
 
 
 ## Custom branding icons
